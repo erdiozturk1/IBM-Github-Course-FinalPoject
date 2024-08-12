@@ -10,4 +10,4 @@ This project is inculeded sample code to calculate simple interest for customers
     t, time period in years
     r, annual rate of interest
 ## Output
-   simple interest = $p$*t*r
+   simple interest = p$*t*$r
